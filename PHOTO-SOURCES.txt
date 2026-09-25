@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-008-jcor J Cor Plumbing Electrical General Contractor (CR 2026-09-25b PT rebuild)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave11/plumb-gas-meter-pipes.jpg : gas meter, regulator, and piping on brick (prior verified library wave6/plumb-pipes-w6.jpg)
+services-trade.jpg <- wave11/plumb-wrenches-pipe.jpg : pipe wrenches on a pipe (rawpixel CC0 5904346)
+people-crew.jpg <- wave11/tools-wrenches-dark.jpg : wrench set, dark background (StockSnap CC0 F91K0WLE2D)
+people-marek.jpg <- wave11/elec-breakers-row.jpg : row of breakers with wiring (StockSnap CC0 6Y6VEZPDC1)
+people-tom.jpg <- wave11/kitchen-faucet-chrome.jpg : chrome pull-down kitchen faucet (StockSnap CC0 XVEZZZGCXA)
+coverage-house.jpg <- wave11/house-gabled-lawn.jpg : gabled single-family home with lawn (prior verified library wave2/house-suburb.jpg)
+plumb-under-sink-hands.jpg <- wave11/plumb-under-sink-hands.jpg : hands fitting a supply line under a sink, no face (prior verified library wave2/under-sink.jpg)
+rem-bath-vanity-window.jpg <- cr0925/rem-bath-vanity-window.jpg : Double Vanity with Hexagon Sinks (rawpixel CC0 https://www.rawpixel.com/image/6082593/double-vanity-with-hexagon-sinks)
+elec-wires-wallbox.jpg <- wave11/elec-wires-wallbox.jpg : wires pulled through a wall opening (StockSnap CC0 NTBTAJYIOK)
+elec-switch-wall.jpg <- cr0925/elec-switch-wall.jpg : Light Switch (stocksnap CC0 https://stocksnap.io/photo/light-switch-GCFFRMA9VR)
+tools-wrenches-wood.jpg <- wave11/tools-wrenches-wood.jpg : wrenches on a wood bench (Flickr CC0 32708495171)
+wh-basement-tank.jpg <- wave11/wh-basement-tank.jpg : tank water heater in a utility room (Flickr PDM 17715613311)
+
+Replaced from the prior build: all photos (prior library had mislabeled trade images and stock faces).
+Note: Wordmark J Cor. jcorplumbing.com is registered, dropped from ideas.
