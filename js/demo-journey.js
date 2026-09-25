@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Plumbing, electrical, kitchen and bath remodels, and general construction. Across Anaheim and Orange County. Jared looks at the job first and puts the price in writing.';
+            'Plumbing, electrical, kitchen and bath remodels, and general construction in Anaheim. Jared looks at the job first and puts the price in writing.';
         }
       }
     },
